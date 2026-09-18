@@ -9,7 +9,7 @@ const apiTracker = (endpoint) => {
                 },
                 {
                     $inc: {
-                        hits: 1
+                        hits: 7
                     }
                 },
                 {
